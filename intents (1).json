@@ -1,0 +1,1 @@
+{"intents": [{"tag": "greeting", "patterns": ["hi", "hello", "hey"], "responses": ["Hello!", "Hi there!", "Hey!"]}, {"tag": "goodbye", "patterns": ["bye", "exit", "quit"], "responses": ["Goodbye!", "See you soon!", "Take care!"]}, {"tag": "name", "patterns": ["what is your name", "who are you"], "responses": ["I am your chatbot assistant."]}]}
